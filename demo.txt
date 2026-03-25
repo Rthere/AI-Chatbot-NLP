@@ -1,0 +1,7 @@
+Sample Interaction:
+
+You: hello  
+Bot: Hi there! How can I help you?
+
+You: what is your name  
+Bot: I am an AI chatbot created by Rohan.
